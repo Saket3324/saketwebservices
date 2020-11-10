@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "ram": 8,
+      "price": 2500,
+      "product": "samsung"
+    },
+    {
+      "id": 2,
+      "ram": 8,
+      "price": 5000,
+      "product": "apple"
+    },
+    {
+      "id": 3,
+      "ram": 8,
+      "price": 7500,
+      "product": "redmi"
+    },
+    {
+      "id": 4,
+      "ram": 16,
+      "price": 2500,
+      "product": "lg"
+    },
+    {
+      "id": 5,
+      "ram": 16,
+      "price": 5000,
+      "product": "oneplus"
+    },
+    {
+      "id": 6,
+      "ram": 16,
+      "price": 7500,
+      "product": "detol"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
